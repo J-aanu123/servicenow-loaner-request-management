@@ -52,7 +52,8 @@ Employee Request
 
 ## Dashboard
 
-<img width="1600" height="847" alt="dashboard" src="https://github.com/user-attachments/assets/e970af11-45a0-4bd6-b4aa-3237078f8eba" />
+<img width="1600" height="837" alt="dashboard" src="https://github.com/user-attachments/assets/d6974b0a-ae2b-4bcf-b648-873414cfd428" />
+
 
 
 
